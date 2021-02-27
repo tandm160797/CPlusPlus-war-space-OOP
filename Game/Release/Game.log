@@ -1,0 +1,50 @@
+﻿  Data.cpp
+  Game.cpp
+d:\c++\sfml\game\game\game.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\c++\sfml\game\game\game.cpp(46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\c++\sfml\game\game\game.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\c++\sfml\game\game\game.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\c++\sfml\game\game\game.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\c++\sfml\game\game\game.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\c++\sfml\game\game\game.cpp(96): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\c++\sfml\game\game\game.cpp(97): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\c++\sfml\game\game\game.cpp(104): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Menu.cpp
+d:\c++\sfml\game\game\menu.cpp(17): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\c++\sfml\game\game\menu.cpp(34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\c++\sfml\game\game\menu.cpp(73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+  Generating code
+  0 of 809 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> D:\C++\SFML\Game\Release\Game.exe
